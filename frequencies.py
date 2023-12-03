@@ -3,7 +3,6 @@
 
 def frequencies(items):
     frequencies = {}
-    frequencies = {}
     for item in items:
         # Convert the item to a string
         key = str(item)
