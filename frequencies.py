@@ -10,4 +10,3 @@ def frequencies(items):
         # Increment the count for this key in the dictionary
         frequencies[key] = frequencies.get(key, 0) + 1
     return frequencies
-    return frequencies
